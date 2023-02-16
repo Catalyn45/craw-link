@@ -1,0 +1,5 @@
+DRIVER_PATH = ""
+BINARY_LOCATION = ""
+
+MAIL = ""
+PASSWORD = ""
